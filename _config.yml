@@ -1,11 +1,11 @@
 # Site settings
-author: sensible-gateway-6049
-title: 
+author: Naya Willis
+title: My Coding Journey Part 1
 header-img: img/home-bg.png
 email: greedybrain18@gmail.com
-copyright_name: sensible-gateway-6049
+copyright_name: Naya Willis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Code Stories 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  greedybrain
