@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Corned Beef 'Hash'"
-date:       2019-10-13 23:43:47 +0000
+date:       2019-10-13 19:43:47 -0400
 permalink:  corned_beef_hash
 ---
 
