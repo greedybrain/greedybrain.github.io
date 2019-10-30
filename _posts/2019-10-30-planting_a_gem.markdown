@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Planting a Gem"
-date:       2019-10-30 19:38:41 +0000
+date:       2019-10-30 15:38:42 -0400
 permalink:  planting_a_gem
 ---
 
@@ -15,6 +15,12 @@ Nokogiri allowed me to input a url of a website and then pinpoint the html infor
 Here's a link to the github repo if you're interested in trying it out yourself! 
 
 
-https://github.com/greedybrain/website_worth
+[website_worth repo](https://github.com/greedybrain/website_worth)
 
-Inside of this repo are some instructions and even a video tutorial on how to use it. Enjoy!
+Inside of this repo are some instructions and even a video tutorial on how to use it.
+
+You can also get some instructions here as well.
+
+[website_worth gem](https://rubygems.org/gems/website_worth)
+
+
